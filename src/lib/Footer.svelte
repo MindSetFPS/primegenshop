@@ -10,7 +10,7 @@
 <div class="absolute bottom-0 w-screen text-white">
     <div class="bg-primePurple-100">
         <div>
-            <img src="src/assets/b2.jpg" alt="" class="left-0 w-screen">
+            <img src="https://iili.io/H4eeWHF.jpg" alt="" class="left-0 w-screen">
             <h3>Visita nuestras redes</h3>
             <div class="flex justify-center " >
                 <a href="" >

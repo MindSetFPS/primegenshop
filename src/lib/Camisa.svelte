@@ -5,7 +5,7 @@
 </script>
 
 <div class="h-1/3 md:flex">
-    <img src="src/assets/w.jpg" alt="" class="object-cover md:w-1/2 md:h-1/2 lg:w-1/2" />
+    <img src="https://iili.io/H4eeXAg.jpg" alt="" class="object-cover md:w-1/2 md:h-1/2 lg:w-1/2" />
     <div class="md:w-1/2 lg:w-1/2 p-2 sm:p-4">
         <h1 class="text-5xl sm:text-7xl md:text-4xl lg:text-5xl xl:text-6xl 2xl:text-7xl font-bold">
             Camiseta Oficial PrimeGen 2023

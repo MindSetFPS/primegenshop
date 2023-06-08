@@ -23,7 +23,7 @@
     style="background-image: url('src/assets/b3.jpg');" >
     </div> -->
     
-    <img src="src/assets/b3.jpg" class="w-screen" alt="">
+    <img src="https://iili.io/H4eeMS1.jpg" class="w-screen" alt="">
 
     <div class=" container pb-56 md:pb-72 lg:pb-80 xl:pb-96 2xl:pb-[36rem] mx-auto md:pt-12 h-full min-h-screen"  >
       <Route path="/camisa" component={Camisa} />
