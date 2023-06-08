@@ -13,19 +13,19 @@
             <img src="https://iili.io/H4eeWHF.jpg" alt="" class="left-0 w-screen">
             <h3>Visita nuestras redes</h3>
             <div class="flex justify-center " >
-                <a href="" >
+                <a href="https://www.facebook.com/profile.php?id=100085929251168" >
                     <Fa size="2x" class="m-2" icon={faFacebook} />
                 </a>
-                <a href="" >
+                <a href="https://www.instagram.com/primegen.gg/" >
                     <Fa size="2x" class="m-2" icon={faInstagram} />
                 </a>                
-                <a href="" >
+                <a href="https://twitter.com/PrimeGenGG" >
                     <Fa size="2x" class="m-2" icon={faTwitter} />
                 </a>                
-                <a href="" >
+                <a href="https://www.tiktok.com/@primegengg" >
                     <Fa size="2x" class="m-2" icon={faTiktok} />
                 </a>                
-                <a href="" >
+                <a href="https://discord.com/invite/h3ZXmkk8Yc" >
                     <Fa size="2x" class="m-2" icon={faDiscord} />
                 </a>
                 
