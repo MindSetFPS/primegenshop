@@ -7,7 +7,7 @@
             <div 
                 class="relative w-64 h-64 sm:w-96 sm:h-96 bg-transparent hover:scale-110 
                 transition-all rounded-xl bg-center bg-contain overflow-hidden bg-clip-padding" 
-                style="background-image: url('src/assets/1.png');" >
+                style="background-image: url('https://iili.io/H4eeXAg.jpg');" >
                 <!-- <img src="src/assets/1.png" alt="background image" /> -->
                 <div 
                     class="absolute bg-gradient-to-t from-black bottom-0 w-full text-xl rounded-none
