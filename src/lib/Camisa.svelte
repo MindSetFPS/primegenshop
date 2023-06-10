@@ -27,10 +27,10 @@
                 </button>
             </a>
             <p class="text-xl my-2 text-center flex items-center justify-center"><Fa class="m-2" icon={faTruck}/>Tiempo de envío: 10 días</p>
-            <h1 class="text-4xl my-2">Caracteristicas</h1>
+            <h1 class="text-4xl my-2">Características</h1>
             <div class="flex text-left w-full justify-center " >
                 <div class="text-2xl justify-start" >
-                    <p class="flex p-2 items-center "><Fa class="m-2" icon={faUniversalAccess}/> Genero: Sin Genero</p>
+                    <p class="flex p-2 items-center "><Fa class="m-2" icon={faUniversalAccess}/> Género: Sin género</p>
                     <p class="flex p-2 items-center"><Fa class="m-2" icon={faShirt}/>Tipo de Cuello: Redondo</p>
                     <p class="flex p-2 items-center"><Fa class="m-2" icon={faTShirt}/>Tipo de manga: Corta</p>
                     <p class="flex p-2 items-center"><Fa class="m-2" icon={faShapes}/>Material principal: Tela polyfit</p>
@@ -44,16 +44,16 @@
 <div class="p-2 sm:p-4">
 
 
-    <h2 class="text-4xl pt-2">Descripcion</h2>
+    <h2 class="text-4xl pt-2">Descripción</h2>
     <div class="md text-lg text-left pt-2">
         <hr />
         <ul class="" >
             <li>
-                ✅ Los envíos son a NIVEL NACIONAL (PERU).
+                ✅ Los envíos son a NIVEL NACIONAL (PERÚ).
             </li>
             <li>
-                ✅ El lapso de entrega por medio de envío en SHALOM / OLVA es 10
-                días calendarios una vez efectuado la confirmación de compra.
+                ✅ El lapso de entrega por medio de envío en SHALOM / OLVA es de 10
+                días calendarios una vez efectuada la confirmación de compra.
             </li>
             <li>
                 ✅ Se deberá adjuntar el VOUCHER de Pago y este debe ser
@@ -61,10 +61,10 @@
             </li>
             <li>
                 ✅ El precio unitario de todos las Camisetas es de S/65 Soles o
-                20USD personalizadas con nombre de desearlo de esa manera.
+                20USD, personalizadas con nombre de desearlo de esa manera.
             </li>
             <li>
-                ✅ Los Números de cuenta autorizados a nombre de Steffan
+                ✅ Los números de cuenta autorizados a nombre de Steffan
                 Saettonne
             </li>
         </ul>
@@ -74,7 +74,7 @@
         <h1
             id="🔰-cuentas-en-dolares-scotiabank-2070500823-cuenta-empresa-a-nombre-eterninty-entertainment-sac"
         >
-            🔰 CUENTAS EN DOLARES SCOTIABANK 2070500823 (Cuenta Empresa a nombre
+            🔰 CUENTAS EN DÓLARES SCOTIABANK 2070500823 (Cuenta Empresa a nombre
             Eterninty Entertainment SAC)
         </h1>
         <h1
